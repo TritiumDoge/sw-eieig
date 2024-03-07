@@ -1,11 +1,12 @@
 {
-    "token": "DISCORD TOKEN",
+    "token": "MTIxMTA3NjAwNDY3Njc2Nzc0NA.GHau9K.sDmR3qeQsJUvyYTBhVYUSYnpBOGu3E1r3IFub8",
     "color": "#34a6ef",
     "developerGuild": "GUILD ID",
-    "database": "MongoDB Url",
-    "supportServer": "DISCORD Invite Link",
+    "database": "mongodb+srv://saiaarushannapantula:e8u2ymyz@cluster0.mprjza7.mongodb.net/?retryWrites=true&w=majority",
+    "supportServer": "https://discord.gg/Bt4pQe8E8K",
     "activityInterval": 10,
     "activities": [
-            "/invite | dsc.gg/eve-bot",
-	    "/help | {servercount} servers"
+            "",
+	    "/invite | Watching {servercount} Server",
+        "Created by smiteness#0001"
     ]}
